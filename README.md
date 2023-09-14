@@ -2,6 +2,8 @@
 
 Learn how to create stunning documentations with React and Docusaurus in minutes. Spend more time on building your product and less time on your docs.
 
+![Docusaurus](https://user-images.githubusercontent.com/47107420/267978511-9f934544-0fc4-44e1-84a1-150a4d9539d2.png)
+
 ## Here’s What You’ll Learn 👨🏻‍💻
 
 - What is Docusaurus?
