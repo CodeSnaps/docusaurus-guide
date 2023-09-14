@@ -1,0 +1,8 @@
+{
+  "label": "Custom Title",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This is a custom description"
+  }
+}
