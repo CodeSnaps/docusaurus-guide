@@ -22,7 +22,7 @@ Learn how to create stunning documentation in minutes with React and Docusaurus.
 
 ## Change Homepage to Use Images Instead
 
-Here's an example, you can replace the images inside the array.
+Here's an example, you can replace the images inside the array. Edit the located at `/src/components/HomepageFeatures/index.js`.
 
 ```jsx
 import React from 'react';
